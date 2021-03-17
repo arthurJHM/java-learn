@@ -13,6 +13,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../MALL/mall/mall-search/src/main/java/com/macro/mall/search/dao/EsProductDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../geektime-spring-family/Chapter 3/jpa-complex-demo/src/main/java/geektime/spring/springbucks/jpademo/JpaDemoApplication.java">
           <value>
             <set />
@@ -33,7 +38,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/arthur/aqs/AQSTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/arthur/atmoic/AtomicTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/arthur/bloomfilter/test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/arthur/completablefuture/CompletableFutureTest.java">
           <value>
             <set />
           </value>
@@ -63,6 +83,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/arthur/factorybean.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/arthur/factorybean/FactoryBeanTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/arthur/java11httpclient/HttpClientTest.java">
           <value>
             <set />
@@ -84,6 +114,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/arthur/threadlocal/ThreadLocalExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/arthur/threadpoolexecutor/ExecutorsTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/arthur/threadpoolexecutor/ThreadPoolExecutor.java">
           <value>
             <set />
           </value>
@@ -118,12 +158,47 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/leetcode/No115.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/leetcode/No119.java">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/leetcode/No1669.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/leetcode/No54.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/leetcode/No59.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/leetcode/No83.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/leetcode/No876.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/leetcode/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../simple-rpc/client/src/main/java/com/github/simplerpc/rpc/client/Client.java">
           <value>
             <set />
           </value>

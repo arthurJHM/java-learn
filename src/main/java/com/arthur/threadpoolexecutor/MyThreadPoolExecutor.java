@@ -5,7 +5,7 @@ import java.util.Date;
 import java.util.List;
 import java.util.concurrent.*;
 
-public class ThreadPoolExecutor {
+public class MyThreadPoolExecutor {
     public static void main(String[] args) {
         System.out.println("================================ThreadPoolExecutor==========================================");
         class MyRunnable implements Runnable {
