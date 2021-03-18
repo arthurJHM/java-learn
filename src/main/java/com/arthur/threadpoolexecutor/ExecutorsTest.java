@@ -21,8 +21,16 @@ public class ExecutorsTest {
         Executors.newFixedThreadPool(1);
         Executors.newSingleThreadExecutor();
 
-        new ThreadPoolExecutor(5, 10, 1, TimeUnit.SECONDS,
+        ThreadPoolExecutor threadPoolExecutor = new ThreadPoolExecutor(5, 10, 1, TimeUnit.SECONDS,
                 new ArrayBlockingQueue<>(10), new ThreadPoolExecutor.AbortPolicy());
+        threadPoolExecutor.execute(new Runnable() {
+            @Override
+            public void run() {
+                while (true) {
+                    System.out.println("test");
+                }
+            }
+        });
 
     }
 }

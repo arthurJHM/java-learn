@@ -13,6 +13,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.3.0.RELEASE/spring-boot-2.3.0.RELEASE.jar!/org/springframework/boot/SpringApplication.class">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../MALL/mall/mall-search/src/main/java/com/macro/mall/search/dao/EsProductDao.java">
           <value>
             <set />
@@ -94,6 +99,21 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/arthur/java11httpclient/HttpClientTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/arthur/proxy/proxyTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/arthur/proxy/serviceInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/arthur/proxy/serviceimplments.java">
           <value>
             <set />
           </value>
@@ -189,6 +209,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/leetcode/No876.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/leetcode/No92.java">
           <value>
             <set />
           </value>
