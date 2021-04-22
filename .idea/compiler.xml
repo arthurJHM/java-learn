@@ -6,11 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="java-learn" />
+        <module name="BaseTest" />
+        <module name="mybatisTest" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="BaseTest" target="11" />
       <module name="java-learn" target="11" />
+      <module name="mybatisTest" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

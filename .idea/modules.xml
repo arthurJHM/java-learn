@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BaseTest/BaseTest.iml" filepath="$PROJECT_DIR$/BaseTest/BaseTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-learn.iml" filepath="$PROJECT_DIR$/java-learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatisTest/mybatisTest.iml" filepath="$PROJECT_DIR$/mybatisTest/mybatisTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/restful-web/restful-web.iml" filepath="$PROJECT_DIR$/restful-web/restful-web.iml" />
     </modules>
   </component>
