@@ -11,9 +11,9 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="BaseTest" target="11" />
-      <module name="java-learn" target="11" />
-      <module name="mybatisTest" target="11" />
+      <module name="BaseTest" target="8" />
+      <module name="java-learn" target="8" />
+      <module name="mybatisTest" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
