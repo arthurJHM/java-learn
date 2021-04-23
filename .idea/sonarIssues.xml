@@ -23,7 +23,32 @@
             <set />
           </value>
         </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MALL/mall-tiny/src/main/resources/generator.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MALL/mall-tiny/src/main/resources/mapper/ums/UmsAdminLoginLogMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../MALL/mall/mall-search/src/main/java/com/macro/mall/search/dao/EsProductDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RUOYI_ALL/RuoYi-fast/src/main/resources/application-druid.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RUOYI_ALL/RuoYi-fast/src/main/resources/application.yml">
           <value>
             <set />
           </value>
@@ -48,6 +73,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/.idea/.gitignore">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/BaseTest/pom.xml">
           <value>
             <set />
@@ -68,7 +98,172 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/mybatisTest/src/main/resources/mybatis/mybatis-config.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/mybatisTest/src/main/resources/mybatis/mybatis-generator.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-mybatis-generator-mall-tiny/src/main/java/com/arthur/Appliction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-mybatis-generator-mall-tiny/src/main/java/com/arthur/config/MyBatisConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-mybatis-generator-mall-tiny/src/main/java/com/arthur/controller/PmsBrandController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-mybatis-generator-mall-tiny/src/main/java/com/arthur/mbg/Generator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-mybatis-generator-mall-tiny/src/main/java/com/arthur/service/PmsBrandService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-mybatis-generator-mall-tiny/src/main/java/com/arthur/service/impl/PmsBrandServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-mybatis-generator-mall-tiny/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-mybatis-generator-mall-tiny/src/main/resources/generator.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-mybatis-generator-mall-tiny/src/main/resources/generatorConfig.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-mybatis/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-mybatis/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-redis/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-redis/src/main/java/Appliction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-redis/src/main/java/com/Appliction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-redis/src/main/java/com/arthur/common/api/CommonResult.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-redis/src/main/java/com/arthur/common/api/IErrorCode.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-redis/src/main/java/com/arthur/common/api/ResultCode.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-redis/src/main/java/com/arthur/controller/UmsMemberController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-redis/src/main/java/com/arthur/services/RedisService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-redis/src/main/java/com/arthur/services/UmsMemberService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-redis/src/main/java/com/arthur/services/impl/RedisServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-redis/src/main/java/com/arthur/services/impl/UmsMemberServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-redis/src/main/java/common/api/CommonPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-redis/src/main/java/controller/UmsMemberController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-redis/src/main/java/services/PmsBrandService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-redis/src/main/java/services/RedisService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-redis/src/main/java/services/UmsMemberService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-redis/src/main/java/services/impl/PmsBrandServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-redis/src/main/java/services/impl/RedisServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-redis/src/main/java/services/impl/UmsMemberServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-redis/src/main/resources/application.yml">
           <value>
             <set />
           </value>
@@ -813,6 +1008,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/leetcode/No368.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/leetcode/No371.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/leetcode/No38.java">
           <value>
             <set />
@@ -1059,6 +1264,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../simple-rpc/client/src/main/java/com/github/simplerpc/rpc/client/Client.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-boot-examples/pom.xml">
           <value>
             <set />
           </value>

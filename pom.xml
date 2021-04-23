@@ -34,7 +34,6 @@
         </plugins>
     </build>
     <modules>
-        <module>mybatisTest</module>
         <module>BaseTest</module>
     </modules>
 
