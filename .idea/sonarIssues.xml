@@ -128,6 +128,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/springboot-mybatis-generator-mall-tiny/src/main/java/com/arthur/dao/UmsAdminRoleRelationDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/springboot-mybatis-generator-mall-tiny/src/main/java/com/arthur/mbg/Generator.java">
           <value>
             <set />
@@ -264,6 +269,141 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/springboot-redis/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-security/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-security/src/main/java/com/arthur/Appliction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-security/src/main/java/com/arthur/component/JwtAuthenticationTokenFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-security/src/main/java/com/arthur/component/RestAuthenticationEntryPoint.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-security/src/main/java/com/arthur/component/RestfulAccessDeniedHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-security/src/main/java/com/arthur/config/MyBatisConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-security/src/main/java/com/arthur/config/SecurityConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-security/src/main/java/com/arthur/config/Swagger2Config.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-security/src/main/java/com/arthur/controller/PmsBrandController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-security/src/main/java/com/arthur/controller/UmsAdminController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-security/src/main/java/com/arthur/controller/UmsMemberController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-security/src/main/java/com/arthur/dao/UmsAdminRoleRelationDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-security/src/main/java/com/arthur/dto/AdminUserDetails.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-security/src/main/java/com/arthur/service/PmsBrandService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-security/src/main/java/com/arthur/service/UmsAdminService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-security/src/main/java/com/arthur/service/UmsMemberService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-security/src/main/java/com/arthur/service/impl/PmsBrandServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-security/src/main/java/com/arthur/service/impl/RedisServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-security/src/main/java/com/arthur/service/impl/UmsAdminServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-security/src/main/java/com/arthur/service/impl/UmsMemberServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-security/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-security/src/main/resources/generator.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-security/src/main/resources/generatorConfig.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-swagger/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-swagger/src/main/java/com/arthur/Application.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-swagger/src/main/java/com/arthur/config/Swagger2Config.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-swagger/src/main/java/com/arthur/controller/TestController.java">
           <value>
             <set />
           </value>
