@@ -23,6 +23,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.4.6/spring-data-commons-2.4.6.jar!/org/springframework/data/repository/PagingAndSortingRepository.class">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http">
           <value>
             <set />
@@ -113,6 +118,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/springboot-ES/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/springboot-mybatis-generator-mall-tiny/src/main/java/com/arthur/Appliction.java">
           <value>
             <set />
@@ -169,6 +179,61 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/springboot-mybatis/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-rabbitmq/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-rabbitmq/src/main/java/com/arthur/Application.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-rabbitmq/src/main/java/com/arthur/component/CancelOrderReceiver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-rabbitmq/src/main/java/com/arthur/component/CancelOrderSender.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-rabbitmq/src/main/java/com/arthur/config/RabbitMqConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-rabbitmq/src/main/java/com/arthur/controller/OmsPortalOrderController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-rabbitmq/src/main/java/com/arthur/dto/QueueEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-rabbitmq/src/main/java/com/arthur/service/OmsPortalOrderService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-rabbitmq/src/main/java/com/arthur/service/generateOrder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-rabbitmq/src/main/java/com/arthur/service/impl/OmsPortalOrderServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-rabbitmq/src/main/resources/application.yml">
           <value>
             <set />
           </value>
@@ -384,6 +449,36 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/springboot-security/src/main/resources/generatorConfig.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-security/src/main/resources/mapper/UmsAdminRoleRelationDao.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-springtask/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-springtask/src/main/java/com/arthur/Application.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-springtask/src/main/java/com/arthur/component/OrderTimeOutCancelTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-springtask/src/main/java/com/arthur/config/SpringTaskConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-springtask/src/main/resources/application.yml">
           <value>
             <set />
           </value>
@@ -1158,6 +1253,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/leetcode/No377.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/leetcode/No38.java">
           <value>
             <set />
@@ -1319,6 +1419,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/leetcode/No88.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/leetcode/No897.java">
           <value>
             <set />
           </value>

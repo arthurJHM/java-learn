@@ -33,7 +33,7 @@ public class Swagger2Config {
                 .paths(PathSelectors.any())
                 .build()
                 //添加登录认证
-                .securitySchemes(securitySchemes())
+                .securitySchemes(securitySchemes())//这两行是为了能够让swagger多一个可以带token的功能
                 .securityContexts(securityContexts());
     }
 

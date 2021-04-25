@@ -92,7 +92,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 
     @Bean
     @Override
-    public UserDetailsService userDetailsService() {
+    public UserDetailsService userDetailsService() {//这个bean会在JwtAuthenticationTokenFilter中被用到 用来查询用户的信息 包括用户名密码权限列表等
         //获取登录用户信息
         return username -> {
             UmsAdmin admin = adminService.getAdminByUsername(username);
@@ -111,7 +111,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 
     @Bean
     @Override
-    public AuthenticationManager authenticationManagerBean() throws Exception {
+    public AuthenticationManager authenticationManagerBean() throws Exception {//这个例子里面好像没有被注入
         return super.authenticationManagerBean();
     }
 

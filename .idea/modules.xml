@@ -5,9 +5,12 @@
       <module fileurl="file://$PROJECT_DIR$/BaseTest/BaseTest.iml" filepath="$PROJECT_DIR$/BaseTest/BaseTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVALearn.iml" filepath="$PROJECT_DIR$/JAVALearn.iml" />
       <module fileurl="file://$PROJECT_DIR$/restful-web/restful-web.iml" filepath="$PROJECT_DIR$/restful-web/restful-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-ES/springboot-ES.iml" filepath="$PROJECT_DIR$/springboot-ES/springboot-ES.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-mybatis-generator-mall-tiny/springboot-mybatis-generator-mall-tiny.iml" filepath="$PROJECT_DIR$/springboot-mybatis-generator-mall-tiny/springboot-mybatis-generator-mall-tiny.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-rabbitmq/springboot-rabbitmq.iml" filepath="$PROJECT_DIR$/springboot-rabbitmq/springboot-rabbitmq.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-redis/springboot-redis.iml" filepath="$PROJECT_DIR$/springboot-redis/springboot-redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-security/springboot-security.iml" filepath="$PROJECT_DIR$/springboot-security/springboot-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-springtask/springboot-springtask.iml" filepath="$PROJECT_DIR$/springboot-springtask/springboot-springtask.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-swagger/springboot-swagger.iml" filepath="$PROJECT_DIR$/springboot-swagger/springboot-swagger.iml" />
     </modules>
   </component>
