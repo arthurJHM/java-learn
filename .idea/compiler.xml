@@ -11,6 +11,7 @@
         <module name="springboot-ES" />
         <module name="springboot-rabbitmq" />
         <module name="springboot-springtask" />
+        <module name="springboot-rabbitmq-springtaskTest" />
         <module name="BaseTest" />
         <module name="springboot-mybatis-generator-mall-tiny" />
         <module name="springboot-security" />
@@ -22,6 +23,7 @@
       <module name="springboot-ES" target="8" />
       <module name="springboot-mybatis-generator-mall-tiny" target="8" />
       <module name="springboot-rabbitmq" target="8" />
+      <module name="springboot-rabbitmq-springtaskTest" target="8" />
       <module name="springboot-redis" target="8" />
       <module name="springboot-security" target="8" />
       <module name="springboot-springtask" target="8" />
@@ -33,6 +35,7 @@
       <module name="springboot-ES" options="-parameters" />
       <module name="springboot-mybatis-generator-mall-tiny" options="-parameters" />
       <module name="springboot-rabbitmq" options="-parameters" />
+      <module name="springboot-rabbitmq-springtaskTest" options="-parameters" />
       <module name="springboot-redis" options="-parameters" />
       <module name="springboot-security" options="-parameters" />
       <module name="springboot-springtask" options="-parameters" />

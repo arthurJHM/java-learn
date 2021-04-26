@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/springboot-springtask/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-ES/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-rabbitmq-springtaskTest/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

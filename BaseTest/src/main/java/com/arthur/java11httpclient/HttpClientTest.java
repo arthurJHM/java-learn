@@ -1,12 +1,7 @@
 package com.arthur.java11httpclient;
 
-import java.io.IOException;
-import java.net.URI;
-import java.net.http.HttpClient;
-import java.net.http.HttpRequest;
-import java.net.http.HttpResponse;
 
-
+/*
 public class HttpClientTest {
     public static void main(String[] args) throws IOException, InterruptedException {
         HttpRequest request = HttpRequest.newBuilder()
@@ -32,4 +27,4 @@ public class HttpClientTest {
 
 
     }
-}
+}*/
