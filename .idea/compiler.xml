@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springboot-redis" />
         <module name="springboot-swagger" />
+        <module name="springTest" />
         <module name="springboot-ES" />
         <module name="springboot-rabbitmq" />
         <module name="springboot-springtask" />
@@ -28,10 +29,12 @@
       <module name="springboot-security" target="8" />
       <module name="springboot-springtask" target="8" />
       <module name="springboot-swagger" target="8" />
+      <module name="springTest" target="8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springTest" options="-parameters" />
       <module name="springboot-ES" options="-parameters" />
       <module name="springboot-mybatis-generator-mall-tiny" options="-parameters" />
       <module name="springboot-rabbitmq" options="-parameters" />

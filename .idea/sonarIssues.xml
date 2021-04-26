@@ -88,7 +88,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/BaseTest/src/main/java/com/arthur/fileTest/getfile.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/BaseTest/src/main/java/com/arthur/java11httpclient/HttpClientTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/BaseTest/src/main/java/com/arthur/luanqibazao/HelloJDK9.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/BaseTest/src/main/java/com/arthur/stream/StreamTest2.java">
           <value>
             <set />
           </value>
@@ -119,6 +134,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springTest/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springTest/src/main/java/com/arthur/config/FileHandleConfig.java">
           <value>
             <set />
           </value>
