@@ -48,6 +48,51 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../RUOYI_ALL/RuoYi-Cloud/ruoyi-auth/src/main/resources/bootstrap.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RUOYI_ALL/RuoYi-Cloud/ruoyi-common/ruoyi-common-security/src/main/java/com/ruoyi/common/security/annotation/EnableRyFeignClients.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RUOYI_ALL/RuoYi-Cloud/ruoyi-gateway/src/main/resources/bootstrap.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RUOYI_ALL/RuoYi-Cloud/ruoyi-modules/ruoyi-file/src/main/resources/bootstrap.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RUOYI_ALL/RuoYi-Cloud/ruoyi-modules/ruoyi-gen/src/main/java/com/ruoyi/gen/controller/GenController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RUOYI_ALL/RuoYi-Cloud/ruoyi-modules/ruoyi-gen/src/main/resources/bootstrap.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RUOYI_ALL/RuoYi-Cloud/ruoyi-modules/ruoyi-job/src/main/resources/bootstrap.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RUOYI_ALL/RuoYi-Cloud/ruoyi-modules/ruoyi-system/src/main/resources/bootstrap.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RUOYI_ALL/RuoYi-Cloud/ruoyi-visual/ruoyi-monitor/src/main/resources/bootstrap.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../RUOYI_ALL/RuoYi-fast/src/main/resources/application-druid.yml">
           <value>
             <set />
@@ -144,6 +189,21 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/springTest/src/main/java/com/arthur/config/FileHandleConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springTest/src/main/java/com/arthur/jdbcTemplateTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springTest/src/main/java/com/arthur/jdbcTest/jdbcTemplateTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springTest/src/main/java/com/arthur/jdbcTest/jdbcTest.java">
           <value>
             <set />
           </value>
@@ -798,6 +858,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/bishi/ali/ali0507/No1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/bishi/ali/ali0507/No2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/bishi/ali/day20210320/No1.java">
           <value>
             <set />
@@ -963,6 +1033,26 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/bishi/zijie0509/No2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/bishi/zijie0509/No3.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/bishi/zijie0509/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/bishi/zijie0509/Test2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/leetcode/No10.java">
           <value>
             <set />
@@ -1068,6 +1158,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/leetcode/No1482.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/leetcode/No15.java">
           <value>
             <set />
@@ -1104,6 +1199,21 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/leetcode/No172.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/leetcode/No1720.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/leetcode/No1723.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/leetcode/No1734.java">
           <value>
             <set />
           </value>
@@ -1378,6 +1488,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/leetcode/No633.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/leetcode/No66.java">
           <value>
             <set />
@@ -1463,6 +1578,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/leetcode/No872.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/leetcode/No876.java">
           <value>
             <set />
@@ -1494,6 +1614,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/leetcode/No92_2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/leetcode/No938.java">
           <value>
             <set />
           </value>

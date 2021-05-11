@@ -14,7 +14,7 @@ import java.io.File;
  * 设置之后  可以在打包成jar之后 读取到jar同一目录下的文件
  */
 @Configuration
-class WebMvcConfig extends WebMvcConfigurerAdapter {
+class FileHandleConfig extends WebMvcConfigurerAdapter {
     @Override
     public void addResourceHandlers(ResourceHandlerRegistry registry) {
         String dir = System.getProperty("user.dir");
