@@ -16,6 +16,7 @@
         <option value="$PROJECT_DIR$/springboot-rabbitmq-springtaskTest/pom.xml" />
         <option value="$PROJECT_DIR$/springTest/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mybatis-generator/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

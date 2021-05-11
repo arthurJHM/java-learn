@@ -17,6 +17,7 @@
         <module name="BaseTest" />
         <module name="springboot-mybatis-generator-mall-tiny" />
         <module name="springboot-security" />
+        <module name="springboot-mybatis-generator" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -24,6 +25,7 @@
       <module name="JAVALearn" target="8" />
       <module name="springboot-ES" target="8" />
       <module name="springboot-jpa" target="8" />
+      <module name="springboot-mybatis-generator" target="8" />
       <module name="springboot-mybatis-generator-mall-tiny" target="8" />
       <module name="springboot-rabbitmq" target="8" />
       <module name="springboot-rabbitmq-springtaskTest" target="8" />
@@ -39,6 +41,7 @@
       <module name="springTest" options="-parameters" />
       <module name="springboot-ES" options="-parameters" />
       <module name="springboot-jpa" options="-parameters" />
+      <module name="springboot-mybatis-generator" options="-parameters" />
       <module name="springboot-mybatis-generator-mall-tiny" options="-parameters" />
       <module name="springboot-rabbitmq" options="-parameters" />
       <module name="springboot-rabbitmq-springtaskTest" options="-parameters" />

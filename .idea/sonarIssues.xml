@@ -23,6 +23,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.2.6.RELEASE/spring-cloud-openfeign-core-2.2.6.RELEASE.jar!/org/springframework/cloud/openfeign/FeignClient.class">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.4.6/spring-data-commons-2.4.6.jar!/org/springframework/data/repository/PagingAndSortingRepository.class">
           <value>
             <set />
@@ -99,6 +104,26 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../RUOYI_ALL/RuoYi-fast/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Springboot-learn/geektime-spring-family/Chapter 3/mybatis-generator-demo/src/main/java/geektime/spring/data/mybatis/MybatisGeneratorDemoApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Springboot-learn/geektime-spring-family/Chapter 3/mybatis-generator-demo/src/main/java/geektime/spring/data/mybatis/mapper/CoffeeMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Springboot-learn/geektime-spring-family/Chapter 3/mybatis-generator-demo/src/main/java/geektime/spring/data/mybatis/model/Coffee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Springboot-learn/geektime-spring-family/Chapter 3/mybatis-generator-demo/src/main/java/geektime/spring/data/mybatis/model/CoffeeExample.java">
           <value>
             <set />
           </value>
@@ -289,6 +314,46 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/springboot-mybatis-generator-mall-tiny/src/main/resources/generatorConfig.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-mybatis-generator/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-mybatis-generator/src/main/java/com/arthur/mybatis/MybatisGeneratorDemoApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-mybatis-generator/src/main/java/com/arthur/mybatis/handler/MoneyTypeHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-mybatis-generator/src/main/java/com/arthur/mybatis/mapper/CoffeeMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-mybatis-generator/src/main/java/com/arthur/mybatis/model/Coffee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-mybatis-generator/src/main/java/com/arthur/mybatis/model/CoffeeExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-mybatis-generator/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-mybatis-generator/src/main/resources/generatorConfig.xml">
           <value>
             <set />
           </value>

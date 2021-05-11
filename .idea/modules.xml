@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/springTest/springTest.iml" filepath="$PROJECT_DIR$/springTest/springTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-ES/springboot-ES.iml" filepath="$PROJECT_DIR$/springboot-ES/springboot-ES.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-jpa/springboot-jpa.iml" filepath="$PROJECT_DIR$/springboot-jpa/springboot-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mybatis-generator/springboot-mybatis-generator.iml" filepath="$PROJECT_DIR$/springboot-mybatis-generator/springboot-mybatis-generator.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-mybatis-generator-mall-tiny/springboot-mybatis-generator-mall-tiny.iml" filepath="$PROJECT_DIR$/springboot-mybatis-generator-mall-tiny/springboot-mybatis-generator-mall-tiny.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-rabbitmq/springboot-rabbitmq.iml" filepath="$PROJECT_DIR$/springboot-rabbitmq/springboot-rabbitmq.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-rabbitmq-springtaskTest/springboot-rabbitmq-springtaskTest.iml" filepath="$PROJECT_DIR$/springboot-rabbitmq-springtaskTest/springboot-rabbitmq-springtaskTest.iml" />
