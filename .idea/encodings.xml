@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/springTest/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-ES/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-jpa/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-mybatis-generator-mall-tiny/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-rabbitmq-springtaskTest/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-rabbitmq-springtaskTest/src/main/resources" charset="UTF-8" />

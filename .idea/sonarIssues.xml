@@ -213,6 +213,36 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/springboot-jpa/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-jpa/src/main/java/com/arthur/jpademo/JpaDemoApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-jpa/src/main/java/com/arthur/jpademo/model/Coffee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-jpa/src/main/java/com/arthur/jpademo/model/CoffeeOrder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-jpa/src/main/java/com/arthur/jpademo/repository/CoffeeOrderRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/springboot-jpa/src/main/java/com/arthur/jpademo/repository/CoffeeRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/springboot-mybatis-generator-mall-tiny/src/main/java/com/arthur/Appliction.java">
           <value>
             <set />
@@ -1163,6 +1193,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/leetcode/No1486.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/leetcode/No15.java">
           <value>
             <set />
@@ -1344,6 +1379,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/leetcode/No297.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/com/arthur/leetcode/No3.java">
           <value>
             <set />
           </value>
